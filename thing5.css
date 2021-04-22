@@ -1,0 +1,40 @@
+.coverSprite {
+    background-repeat: no-repeat;
+    background-image: url('http://images.rbxcdn.com/20e7d1543d2c5caf201184d86530fc35.png');
+}
+#RollerContainer {
+    background-image: url('http://images.rbxcdn.com/dcbdfaf1c08058e71f65c09f7b98ff04.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.special-dropdown select {
+    border: 0 !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: url('http://images.rbxcdn.com/379f4f1018f31cbb62ef52a22d9f2118.png') no-repeat;
+    background-position: 92% 40%;
+    width: 100px;
+    text-indent: 0.01px;
+    text-overflow:"";
+}
+#InnerWhatsRobloxContainer1 {
+    height: 70%;
+    background-image: url('http://images.rbxcdn.com/cca69eca62f23ca413fc920549e936ea.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 30% center;
+    color: white;
+}
+#GameImage1 {
+    background-image: url('http://images.rbxcdn.com/42268b6264d89827401ef912f174f288.jpg');
+    margin-right: 5px;
+}
+#GameImage2 {
+    background-image: url('http://images.rbxcdn.com/04baeb33ef66ef1395cd5464309fece6.jpg');
+    margin-right: 5px;
+}
+#GameImage3 {
+    background-image: url('http://images.rbxcdn.com/e8b89d14690203420d64b5b2fda0b461.jpg');
+    margin-right: -10px;
+    width: calc(33.333333% - 10px);
+}
